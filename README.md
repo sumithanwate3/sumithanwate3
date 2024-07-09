@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sumit Hanwate</h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
+
 
 - 🔭 I’m currently working on **RAG(Retrieval Augmented Generation)**
 
@@ -26,4 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumithanwate3&show_icons=true&locale=en" alt="sumithanwate3" /></p>
 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
